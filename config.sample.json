@@ -1,0 +1,16 @@
+{
+  "dlrgAccount": {
+    "username": "",
+    "password": "",
+    "path": ""
+  },
+  "emailAccount": {
+    "username": "",
+    "password": ""
+  },
+  "emailConfig": {
+    "senderEmail": "",
+    "senderName": "",
+    "recipientEmail": ""
+  }
+}
